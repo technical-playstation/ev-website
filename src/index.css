@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Poppins;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Poppins, sans-serif;
+}
+
+/* Responsive Design for Mobile Screens */
+@media (max-width: 768px) {
+  /* Global styles adjustments for mobile */
+  body {
+    padding: 0 10px;
+  }
+}
